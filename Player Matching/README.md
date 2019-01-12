@@ -1,2 +1,2 @@
 <h4>Match each player with a team player based on their own proficiency level and desired partner's proficiency level.<h4>
-<h4>**Matching algrithom: a steepest-ascent hill climb**<h4>
+<h4>**Matching algrithom**: a steepest-ascent hill climb<h4>
